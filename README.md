@@ -6,7 +6,8 @@
 ## Connect With Me!
 <a href="https://www.linkedin.com/in/chrisdiamondeng/"><img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a>
 
-
+<br>
+  
 ### My Programing Languages:
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
