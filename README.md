@@ -1,6 +1,8 @@
 ### Hi there 👋
  🔭 I’m currently working on ...
 
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]
+
 <!--
 **cdiamond3/cdiamond3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
