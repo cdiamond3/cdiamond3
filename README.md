@@ -3,6 +3,10 @@
 ###### - I love being creative and getting things to work!
 ###### - Teamwork makes the dream work!
 
+<br>
+
+## Connect With Me!
+
 ### My Programing Languages:
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
