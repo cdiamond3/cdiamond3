@@ -1,8 +1,11 @@
 ### Hi there 👋
  🔭 I’m currently working on ...
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
-[blog]: https://eresh-zealous.medium.com/
+<a href="twitter.com"> <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> </a>
+
+[![Star on GitHub](https://img.shields.io/badge/GitHub-Star-blue?logo=github)](https://github.com/badges/shields)
+
+
 
 <!--
 **cdiamond3/cdiamond3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
