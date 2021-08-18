@@ -1,7 +1,7 @@
-### Hi there 👋
- 🔭 I’m currently working on ...
+### Hi there my name is Chris Diamond and I am a passionate Full Stack Web Engineer!👋
 
-<a href="https://www.twitter.com"> <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> </a>
+### Programing Languages:
+<img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </a>
 
 [![Star on GitHub](https://img.shields.io/badge/GitHub-Star-blue?logo=github)](https://github.com/badges/shields)
 
