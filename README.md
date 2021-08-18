@@ -1,7 +1,7 @@
 ### Hi there 👋
  🔭 I’m currently working on ...
 
-<a href="twitter.com"> <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> </a>
+<a href="https://www.twitter.com"> <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> </a>
 
 [![Star on GitHub](https://img.shields.io/badge/GitHub-Star-blue?logo=github)](https://github.com/badges/shields)
 
