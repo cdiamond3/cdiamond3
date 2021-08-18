@@ -1,11 +1,11 @@
 ## Hi there my name is Chris Diamond and I am a passionate Full Stack Web Engineer!👋 
 ###### - My goal is to grow and challenge something myself everyday!
 ###### - I love being creative and getting things to work!
-###### - Teamwork makes the dream work!
-
-<br>
+###### - Find me on the golf course when I'm not coding!
 
 ## Connect With Me!
+<a href= > <img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <a>
+
 
 ### My Programing Languages:
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
